@@ -20,3 +20,4 @@ omarchy-theme-install https://github.com/steve-lohmeyer/omarchy-artemis-theme
 ## Credits
 
 - Wallpapers sourced from NASA
+- Color scheme developed with [Aether](https://github.com/bjarneo/aether)
